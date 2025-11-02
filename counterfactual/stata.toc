@@ -2,4 +2,4 @@
 1
 2
 3
-p mivreg Power calculator for instrumental variable analysis in pharmacoepidemiology Use mivreg With STATA 19
+p counterfactual Estimation of and inference on counterfactual distributions Use counterfactual With STATA 19
